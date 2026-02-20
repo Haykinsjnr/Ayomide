@@ -9,7 +9,6 @@
 <!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
   <a href="www.linkedin.com/in/akinlosotu-ayomide"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://youtube.com/your-channel-url"><img src="https://img.shields.io/badge/YouTube-My_Channel-red?style=for-the-badge&logo=youtube"></a>
   <a href="mailto:akinlosotuayomide250@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
@@ -25,13 +24,13 @@ When I'm not working with data, I enjoy [learning something new]. I love the "ah
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** [Brief, one-line description of a project, e.g., working on the premier league 2025 stat in excel.]  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
+- **Project A:**  working on the premier league 2025 stat in excel.]  
+- **Project B:**  Creating an interactive marketing dashboard in Power BI.]
 
 ## 🌱 Currently Learning 
 
-- [A new skill or technology you're exploring, e.g., ai automation.]
-- [Another skill, e.g., data engineering.]
+-  Ai Automation.]
+- Data Engineering.]
 
 ## 🛠️ Technical Skillset
 
